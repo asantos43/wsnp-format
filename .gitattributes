@@ -1,0 +1,4 @@
+# Text files are LF on every system, so a Windows checkout reads the same bytes as any other.
+* text=auto eol=lf
+*.wsnp binary
+*.wsnpx binary
